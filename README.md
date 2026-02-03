@@ -30,6 +30,7 @@ Energieverwaltung (Man sieht seine Energie anzeige.)
 Random = Zufallseffekte (Wie viel Energie man verliert oder gewinnt.)
 
 Bedingungen (if/else/elif)
+
 --------------------------------------------------------------------------------------------------------------------------------------I
 WICHTIG !!                                                                                                                            I
 LÄUFT NICHT ohne Python Installer/Exe. Falls Python bei ihnen nicht vorhanden ist, können sie eine Kleine Version bei Mir Runterladen.I
