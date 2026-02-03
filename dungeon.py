@@ -4,7 +4,7 @@ import random # Zufallsmodul einleiten
 print() # Enter
 print("*************************") # Enter
 print("Willkommen im Dungeon ! *") # Begrüßung
-print("*************************)"
+print("*************************")
 while energie > 0: # Solange der Spieler noch Energie hat
     print("---------------------") # Enter
     print("Energie: " , energie) # Energie anzeigen
@@ -35,6 +35,7 @@ print("Game Over") # Spiel Vorbei
 print("***************************") # Enter
 print("Danke fürs Ausprobieren ! * ") # Schlusstext
 print("***************************") # Enter
+
 
 
 
