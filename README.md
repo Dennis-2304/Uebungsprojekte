@@ -31,6 +31,8 @@ Random = Zufallseffekte (Wie viel Energie man verliert oder gewinnt.)
 
 Bedingungen (if/else/elif)
 
-************
+
 WICHTIG !! 
-Falls
+******************
+Falls kein Python Runtime vorhanden,
+kann man oben rechts beim grünen Code, direkt das Ganze mit einer ZIP Datei Runterladen.
