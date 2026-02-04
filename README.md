@@ -31,3 +31,6 @@ Random = Zufallseffekte (Wie viel Energie man verliert oder gewinnt.)
 
 Bedingungen (if/else/elif)
 
+************
+WICHTIG !! 
+Falls
