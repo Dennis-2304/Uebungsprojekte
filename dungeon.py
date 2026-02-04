@@ -16,12 +16,12 @@ while energie > 0: # Solange der Spieler noch Energie hat
     if wahl == "links": # wenn Spieler links nimmt
         energie += effekt  # Spieler Erhält oder Verliert Energie
 
-        print("Du hast Links genommen du Kriegst" , effekt ,"Energie",) # Für links entschieden kriegt oder verliert Energie
+        print("Du hast links genommen du kriegst" , effekt ,"Energie",) # Für links entschieden kriegt oder verliert Energie
 
 
     elif wahl.lower() == "rechts": # Sonst wenn Spieler rechts nimmt
         energie += effekt # Spieler Erhält oder Verliert Energie
-        print("Du hast Rechts genommen du kriegst" , effekt ,"Energie",) # Für rechts entschieden kriegt oder verliert Energie
+        print("Du hast rechts genommen du kriegst" , effekt ,"Energie",) # Für rechts entschieden kriegt oder verliert Energie
 
 
     else:
@@ -35,6 +35,7 @@ print("Game Over") # Spiel Vorbei
 print("***************************") # Enter
 print("Danke fürs Ausprobieren ! * ") # Schlusstext
 print("***************************") # Enter
+
 
 
 
