@@ -34,5 +34,6 @@ Bedingungen (if/else/elif)
 ******************
 WICHTIG !! 
 ******************
-Falls kein Python Runtime vorhanden,
-kann man oben rechts beim grünen Code Button direkt das Ganze mit einer ZIP Datei herunterladen. Dannach kann man einfach den Code Kopieren und in der Python Runtime einfügen.
+Falls Python nicht installiert ist,  
+kann das Projekt über den grünen Code-Button als ZIP-Datei heruntergeladen werden.  
+Nach dem Entpacken kann das Programm lokal mit Python 3 gestartet werden.
