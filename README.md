@@ -1,7 +1,7 @@
 In Jedem Meiner Projekte, ist ein README enthalten dort können sie sehen was das für ein Projekt ist und was für Funktionen es hat.
 
 ******************
-WICHTIG !! 
+WICHTIG !
 ******************
 Falls Python nicht installiert ist,  
 kann man über den grünen „Code“-Button das ZIP runterladen.
