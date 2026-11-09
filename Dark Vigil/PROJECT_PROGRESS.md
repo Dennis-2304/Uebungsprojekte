@@ -9,7 +9,7 @@
 
 ### Erledigt
 - [x] Anforderungen besprochen
-- [x] Entscheidung Engine: **Unreal Engine 5** (C++ + Blueprints)
+- [x] Entscheidung Engine: **Unreal Engine 5.8** (C++ + Blueprints) – letzte große UE5-Version, Game Animation Sample ist für 5.8 aktualisiert
 - [x] Entscheidung Sprache: **Englische Sprachausgabe**, Untertitel/Menüs **Deutsch + Englisch**, Code auf Englisch, Projektdokumente auf Deutsch
 - [x] Visual Studio 2026 Community: Installation gestartet (Workloads: Desktopentwicklung mit C++, Spieleentwicklung mit C++, Unreal Engine Test Adapter; Komponente MSVC v143 14.38)
 - [x] Konzept v1.0 geschrieben und von Dennis freigegeben → `KONZEPT.md`
@@ -29,5 +29,6 @@
 Warten auf Dennis: UE5-Installation fertig + UE-Version mitteilen.
 
 ## Wichtige Hinweise für Claude
+- **Toolchain UE 5.8:** Epic empfiehlt MSVC **14.44** (VS-2022-Toolset) oder **14.50** (VS-2026-Toolset). Mit VS 2026 gibt es bekannte Compile-Fehler (`<hash_map>`); im Zweifel das 14.44-Toolset nutzen. Exakte Werte stehen in `Engine/Config/Windows/Windows_SDK.json`.
 - In der Cloud-Sitzung gibt es **kein Unreal** → C++ kann dort nicht kompiliert werden. Nach jedem größeren C++-System auf Kompilier-Test durch Dennis warten und in dieser Datei vermerken.
 - In kleinen Schritten arbeiten, nach jedem Schritt committen und pushen.
