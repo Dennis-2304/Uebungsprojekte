@@ -12,14 +12,14 @@
 - [x] Entscheidung Engine: **Unreal Engine 5** (C++ + Blueprints)
 - [x] Entscheidung Sprache: **Englische Sprachausgabe**, Untertitel/Menüs **Deutsch + Englisch**, Code auf Englisch, Projektdokumente auf Deutsch
 - [x] Visual Studio 2026 Community: Installation gestartet (Workloads: Desktopentwicklung mit C++, Spieleentwicklung mit C++, Unreal Engine Test Adapter; Komponente MSVC v143 14.38)
-- [x] Konzept-Entwurf v0.1 geschrieben → `KONZEPT.md`
+- [x] Konzept v1.0 geschrieben und von Dennis freigegeben → `KONZEPT.md`
 
 ### Läuft gerade (Dennis)
 - [ ] Epic Games Launcher + Unreal Engine 5 installieren
 - [ ] Game Animation Sample von Fab holen
 
 ### Offen / nächste Schritte
-1. **Dennis:** Feedback zum Konzept (Fragen am Ende von `KONZEPT.md`)
+1. ~~Feedback zum Konzept~~ → **Konzept v1.0 freigegeben** ✅
 2. **Dennis:** UE-Version mitteilen, Projekt `DarkVigil` aus dem Game Animation Sample erstellen, in C++-Projekt umwandeln
 3. **Gemeinsam:** Neues GitHub-Repo `DarkVigil` mit Git LFS + `.gitignore` / `.gitattributes` für Unreal
 4. **Claude:** Technischer Entwicklungsplan (`TECH_PLAN.md`), `ASSET_LIST.md`, Grafikprofile Niedrig/Mittel/Hoch/Episch

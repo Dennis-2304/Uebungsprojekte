@@ -1,6 +1,6 @@
-# DARK VIGIL – Spielkonzept (Entwurf v0.1)
+# DARK VIGIL – Spielkonzept (v1.0)
 
-> Status: **Entwurf zum Drüberlesen.** Alles hier ist verhandelbar – markiere, was dir gefällt und was nicht.
+> Status: **Von Dennis freigegeben (2026-11-09).** Änderungen sind weiterhin möglich – einfach Bescheid sagen.
 > Sprache: Dokumente auf Deutsch, Dialoge im Spiel auf **Englisch** (Untertitel DE/EN).
 
 ---
