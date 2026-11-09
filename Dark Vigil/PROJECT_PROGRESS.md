@@ -26,7 +26,7 @@
 5. **Claude:** C++-Grundgerüst Phase 1 (Kamera, Targeting, Freeflow-Kern, Konter, Ausweichen, 1 Gegnertyp, Stealth-Takedown)
 
 ### Nächster konkreter Schritt
-Warten auf Dennis: UE5-Installation fertig + Feedback zum Konzept.
+Warten auf Dennis: UE5-Installation fertig + UE-Version mitteilen.
 
 ## Wichtige Hinweise für Claude
 - In der Cloud-Sitzung gibt es **kein Unreal** → C++ kann dort nicht kompiliert werden. Nach jedem größeren C++-System auf Kompilier-Test durch Dennis warten und in dieser Datei vermerken.
