@@ -1,5 +1,7 @@
 # PROJECT_PROGRESS – Dark Vigil
 
+> ⚠️ **UMGEZOGEN (2026-11-10):** Ab jetzt gilt nur noch `Docs/PROJECT_PROGRESS.md` im privaten Repo **`Dennis-2304/DarkVigil`** (Branch `claude/dark-vigil-game-dev-yc5tpl`). Diese Datei hier wird nicht mehr gepflegt.
+
 > Diese Datei liest Claude zu Beginn jeder Sitzung. Hier steht immer, wo wir gerade stehen.
 > Hinweis: Sobald das eigene Repo **DarkVigil** (UE5-Projekt) existiert, ziehen diese Dateien dorthin um.
 
