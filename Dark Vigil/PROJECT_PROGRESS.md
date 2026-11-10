@@ -17,7 +17,7 @@
 - [x] Game Animation Sample in der Fab-Bibliothek
 
 ### Läuft gerade (Dennis)
-- [ ] Projekt **`DarkVigil`** aus dem Game Animation Sample erstellen (Speicherort `C:\UnrealProjects`, nicht in Dokumente/OneDrive)
+- [ ] Projekt **`DarkVigil`** aus dem Game Animation Sample erstellen (Speicherort `C:\DarkVigilProjekt`, Projekt liegt dann in `C:\DarkVigilProjekt\DarkVigil`)
 - [ ] Projekt öffnen und mit **Play** testen (herumlaufen)
 
 ### Offen / nächste Schritte
