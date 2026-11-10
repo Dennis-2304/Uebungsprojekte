@@ -1,0 +1,67 @@
+# =====================================================================
+#  Dark Vigil – .gitignore für das Unreal-Engine-5.8-Projekt
+#  Gehört in den Projektordner neben DarkVigil.uproject
+# =====================================================================
+
+# --- Von Unreal automatisch erzeugt (wird beim Öffnen/Kompilieren neu gebaut) ---
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build-Ordner: nur Icons und Pak-Listen behalten
+Build/*
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+!Build/**/*.ico
+
+# --- Plugins: Quellcode behalten, erzeugte Dateien ignorieren ---
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# --- IDE- und Projektdateien (werden mit "Generate Visual Studio project files" neu erzeugt) ---
+.vs/
+.vscode/
+.idea/
+*.sln
+*.slnx
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.code-workspace
+
+# --- Kompilier-Reste ---
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+*.app
+*.ipa
+*.pch
+*.gch
+
+# --- Windows / sonstiges ---
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+
+# =====================================================================
+#  CONTENT-REGEL
+#  Die Assets aus dem Game Animation Sample und von Fab bleiben
+#  AUSSERHALB von Git (mehrere GB, Epic-/Fab-Lizenz, langsames Internet).
+#  Sie werden in ASSET_LIST.md dokumentiert und können jederzeit neu
+#  über Fab heruntergeladen werden.
+#
+#  Nur unser EIGENER Content unter Content/DarkVigil/ kommt ins Repo.
+#  Wichtig: Sample-Assets nie direkt verändern, sondern eine Kopie oder
+#  einen Kind-Blueprint unter Content/DarkVigil/ anlegen.
+# =====================================================================
+/Content/*
+!/Content/DarkVigil/
